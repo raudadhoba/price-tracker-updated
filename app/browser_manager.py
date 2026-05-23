@@ -4,14 +4,22 @@ import json
 import asyncio
 from typing import Callable, Any
 from playwright.async_api import async_playwright
+from dotenv import load_dotenv
 
 # Data Paths
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(CURRENT_DIR, "data")
 
+# ─── Load environment variables ────────────────────────────────
+ENV_PATH = os.path.join(CURRENT_DIR, ".env")
+load_dotenv(dotenv_path=ENV_PATH)
+
 # ─── Browser config from environment ───────────────────────────
-BROWSER_HEADLESS = os.getenv("BROWSER_HEADLESS", "false").strip().lower() == "true"
-BROWSER_CLOSE    = os.getenv("BROWSER_CLOSE",    "true").strip().lower() == "true"
+headless_env = os.getenv("HEADLESS") or os.getenv("headless") or os.getenv("BROWSER_HEADLESS", "false")
+BROWSER_HEADLESS = str(headless_env).strip().lower() == "true"
+
+close_env = os.getenv("CLOSE_BROWSER") or os.getenv("close_browser") or os.getenv("BROWSER_CLOSE", "true")
+BROWSER_CLOSE = str(close_env).strip().lower() == "true"
 
 
 def sanitize_cookies(raw_cookies: list, fallback_domain: str) -> list:

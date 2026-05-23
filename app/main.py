@@ -15,41 +15,45 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from scripts import run_amazon_tracker, run_myntra_tracker, run_flipkart_tracker
 
 async def run_engine(args):
-    specific_run = args.amazon or args.myntra or args.flipkart
-    
-    print("=" * 60)
-    print("PRICE TRACKER ENGINE (ASYNC)")
-    print("=" * 60)
-    
-    if not specific_run:
-        print("[INFO] No specific platform flags provided. Running all scrapers sequentially.")
-        print("[SEQUENCE] Amazon -> Myntra -> Flipkart\n")
+    loop_count = 1
+    while True:
+        print("=" * 60)
+        if args.loop:
+            print(f"PRICE TRACKER ENGINE (ASYNC) - LOOP CYCLE #{loop_count}")
+        else:
+            print("PRICE TRACKER ENGINE (ASYNC)")
+        print("=" * 60)
         
-        print("[1/3] Launching Amazon tracker...")
-        await run_amazon_tracker()
+        # Determine active platforms based on CLI arguments
+        active_platforms = []
+        if args.amazon or (not args.amazon and not args.myntra and not args.flipkart):
+            active_platforms.append(("Amazon", run_amazon_tracker))
+        if args.myntra or (not args.amazon and not args.myntra and not args.flipkart):
+            active_platforms.append(("Myntra", run_myntra_tracker))
+        if args.flipkart or (not args.amazon and not args.myntra and not args.flipkart):
+            active_platforms.append(("Flipkart", run_flipkart_tracker))
+            
+        for idx, (name, func) in enumerate(active_platforms):
+            if idx > 0:
+                print(f"\n[Engine] Waiting 15 seconds before launching next platform ({name})...")
+                await asyncio.sleep(15)
+                
+            print(f"\n[{idx+1}/{len(active_platforms)}] Launching {name} tracker...")
+            try:
+                await func()
+            except Exception as e:
+                print(f"[Engine] [ERROR] {name} scraper failed: {e}")
+                
+        print("\n" + "=" * 60)
+        print(f"Cycle #{loop_count} completed successfully!")
+        print("=" * 60)
         
-        print("\n[2/3] Launching Myntra tracker...")
-        await run_myntra_tracker()
-        
-        print("\n[3/3] Launching Flipkart tracker...")
-        await run_flipkart_tracker()
-    else:
-        # Run specific crawlers in the sequential order requested: Amazon -> Myntra -> Flipkart
-        if args.amazon:
-            print("Launching Amazon tracker...")
-            await run_amazon_tracker()
+        if not args.loop:
+            break
             
-        if args.myntra:
-            print("\nLaunching Myntra tracker...")
-            await run_myntra_tracker()
-            
-        if args.flipkart:
-            print("\nLaunching Flipkart tracker...")
-            await run_flipkart_tracker()
-            
-    print("\n" + "=" * 60)
-    print("All requested tracking jobs completed successfully!")
-    print("=" * 60)
+        print("\n[Engine] Waiting 30 seconds before starting the next loop cycle... (Press Ctrl+C to stop)")
+        await asyncio.sleep(30)
+        loop_count += 1
 
 def main():
     parser = argparse.ArgumentParser(
@@ -62,12 +66,14 @@ Examples:
   python app/main.py -f          # Run Flipkart scraper only
   python app/main.py -a -m       # Run Amazon and Myntra scrapers
   python app/main.py             # Run all sequentially (Amazon -> Myntra -> Flipkart)
+  python app/main.py --loop      # Run in an infinite loop with 30s platform breaks & 2m cycle breaks
 """
     )
     
     parser.add_argument("-a", "--amazon", action="store_true", help="Track Amazon prices")
     parser.add_argument("-m", "--myntra", action="store_true", help="Track Myntra prices")
     parser.add_argument("-f", "--flipkart", action="store_true", help="Track Flipkart prices")
+    parser.add_argument("-l", "--loop", action="store_true", help="Keep the engine running in an infinite loop")
     
     args = parser.parse_args()
     

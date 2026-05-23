@@ -20,6 +20,8 @@ async def send_telegram_alert(message: str, platform: str) -> bool:
         token = os.getenv("NEW_MYNTRA_BOT_TOKEN")
     elif "OLDMYNTRA" in platform_upper:
         token = os.getenv("OLD_MYNTRA_BOT_TOKEN")
+    elif "AMAZON" in platform_upper:
+        token = os.getenv("AMAZON_BOT_TOKEN")
     else:
         # Fallback to general bot token or NEW Myntra token
         token = os.getenv("NEW_MYNTRA_BOT_TOKEN") or os.getenv("TELEGRAM_BOT_TOKEN")
