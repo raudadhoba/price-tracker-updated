@@ -10,7 +10,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn003",
@@ -23,7 +23,7 @@
         "best_price": null,
         "mrp": 297.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn004",
@@ -36,7 +36,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn005",
@@ -44,12 +44,12 @@
         "url": "https://www.myntra.com/2508147?skuId=15761637",
         "target_price": 175.0,
         "last_notified_price": 168.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 168.0,
         "best_price": null,
         "mrp": 234.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn006",
@@ -62,7 +62,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn007",
@@ -75,7 +75,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn008",
@@ -88,7 +88,7 @@
         "best_price": null,
         "mrp": 750.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn009",
@@ -101,7 +101,7 @@
         "best_price": null,
         "mrp": 520.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn010",
@@ -114,7 +114,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn011",
@@ -127,7 +127,7 @@
         "best_price": null,
         "mrp": 199.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn012",
@@ -140,7 +140,7 @@
         "best_price": null,
         "mrp": 199.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn013",
@@ -153,7 +153,7 @@
         "best_price": null,
         "mrp": 275.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn014",
@@ -166,7 +166,7 @@
         "best_price": null,
         "mrp": 300.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn015",
@@ -179,7 +179,7 @@
         "best_price": null,
         "mrp": 425.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn016",
@@ -192,7 +192,7 @@
         "best_price": null,
         "mrp": 375.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn017",
@@ -205,7 +205,7 @@
         "best_price": null,
         "mrp": 299.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn018",
@@ -218,7 +218,7 @@
         "best_price": null,
         "mrp": 598.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn019",
@@ -231,7 +231,7 @@
         "best_price": null,
         "mrp": 598.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn020",
@@ -244,7 +244,7 @@
         "best_price": null,
         "mrp": 939.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn021",
@@ -257,7 +257,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn022",
@@ -270,7 +270,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn023",
@@ -283,7 +283,7 @@
         "best_price": null,
         "mrp": 897.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn024",
@@ -296,7 +296,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn025",
@@ -309,7 +309,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn026",
@@ -322,7 +322,7 @@
         "best_price": null,
         "mrp": 897.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn027",
@@ -335,7 +335,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn028",
@@ -348,7 +348,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn029",
@@ -361,7 +361,7 @@
         "best_price": null,
         "mrp": 598.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn030",
@@ -374,7 +374,7 @@
         "best_price": null,
         "mrp": 598.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn031",
@@ -387,7 +387,7 @@
         "best_price": null,
         "mrp": 1323.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn032",
@@ -400,7 +400,7 @@
         "best_price": null,
         "mrp": 1396.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn033",
@@ -413,7 +413,7 @@
         "best_price": null,
         "mrp": 1097.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn034",
@@ -426,7 +426,7 @@
         "best_price": null,
         "mrp": 798.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn035",
@@ -439,7 +439,7 @@
         "best_price": null,
         "mrp": 598.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn036",
@@ -452,7 +452,7 @@
         "best_price": null,
         "mrp": 299.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn037",
@@ -465,7 +465,7 @@
         "best_price": null,
         "mrp": 534.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn038",
@@ -478,7 +478,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn039",
@@ -491,7 +491,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn040",
@@ -504,7 +504,7 @@
         "best_price": null,
         "mrp": 448.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn041",
@@ -517,7 +517,7 @@
         "best_price": null,
         "mrp": 725.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn042",
@@ -530,7 +530,7 @@
         "best_price": null,
         "mrp": 1125.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn043",
@@ -543,7 +543,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn044",
@@ -556,7 +556,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn045",
@@ -564,12 +564,12 @@
         "url": "https://www.myntra.com/30957152",
         "target_price": 684.75,
         "last_notified_price": 506.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 506.0,
         "best_price": null,
         "mrp": 920.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn046",
@@ -582,7 +582,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn047",
@@ -595,7 +595,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn048",
@@ -608,7 +608,7 @@
         "best_price": null,
         "mrp": 705.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn049",
@@ -621,7 +621,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn050",
@@ -634,7 +634,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn051",
@@ -647,7 +647,7 @@
         "best_price": null,
         "mrp": 420.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn052",
@@ -660,7 +660,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn053",
@@ -673,7 +673,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn054",
@@ -686,7 +686,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn055",
@@ -699,7 +699,7 @@
         "best_price": null,
         "mrp": 1545.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn056",
@@ -712,7 +712,7 @@
         "best_price": null,
         "mrp": 1380.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn057",
@@ -725,7 +725,7 @@
         "best_price": null,
         "mrp": 565.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn058",
@@ -738,7 +738,7 @@
         "best_price": null,
         "mrp": 825.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn059",
@@ -751,7 +751,7 @@
         "best_price": null,
         "mrp": 1130.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn060",
@@ -764,7 +764,7 @@
         "best_price": null,
         "mrp": 1130.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn061",
@@ -777,7 +777,7 @@
         "best_price": null,
         "mrp": 1240.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn062",
@@ -790,7 +790,7 @@
         "best_price": null,
         "mrp": 1130.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn063",
@@ -803,7 +803,7 @@
         "best_price": null,
         "mrp": 565.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn064",
@@ -816,7 +816,7 @@
         "best_price": null,
         "mrp": 675.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn065",
@@ -829,7 +829,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn066",
@@ -842,7 +842,7 @@
         "best_price": null,
         "mrp": 565.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn067",
@@ -855,7 +855,7 @@
         "best_price": null,
         "mrp": 750.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn068",
@@ -868,7 +868,7 @@
         "best_price": null,
         "mrp": 515.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn069",
@@ -881,7 +881,7 @@
         "best_price": null,
         "mrp": 330.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn070",
@@ -894,7 +894,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn071",
@@ -907,7 +907,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn072",
@@ -920,7 +920,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn073",
@@ -933,7 +933,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn074",
@@ -946,7 +946,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn075",
@@ -959,7 +959,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn076",
@@ -972,7 +972,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn077",
@@ -985,7 +985,7 @@
         "best_price": null,
         "mrp": 750.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn078",
@@ -998,7 +998,7 @@
         "best_price": null,
         "mrp": 149.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn079",
@@ -1011,7 +1011,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn080",
@@ -1024,7 +1024,7 @@
         "best_price": null,
         "mrp": 272.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn081",
@@ -1037,7 +1037,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn082",
@@ -1050,7 +1050,7 @@
         "best_price": null,
         "mrp": 206.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn083",
@@ -1063,7 +1063,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn084",
@@ -1076,7 +1076,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn085",
@@ -1089,7 +1089,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn086",
@@ -1102,7 +1102,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn087",
@@ -1115,7 +1115,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn088",
@@ -1128,7 +1128,7 @@
         "best_price": 560.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn089",
@@ -1141,7 +1141,7 @@
         "best_price": 525.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn090",
@@ -1154,7 +1154,7 @@
         "best_price": 525.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn091",
@@ -1167,7 +1167,7 @@
         "best_price": 327.0,
         "mrp": 700.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn092",
@@ -1175,12 +1175,12 @@
         "url": "https://www.myntra.com/18960004",
         "target_price": 300.0,
         "last_notified_price": 288.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 700.0,
         "best_price": 288.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn093",
@@ -1193,7 +1193,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn094",
@@ -1206,7 +1206,7 @@
         "best_price": null,
         "mrp": 700.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn095",
@@ -1219,7 +1219,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn096",
@@ -1232,7 +1232,7 @@
         "best_price": 525.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn097",
@@ -1245,7 +1245,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn098",
@@ -1258,7 +1258,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn099",
@@ -1271,7 +1271,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn100",
@@ -1279,12 +1279,12 @@
         "url": "https://www.myntra.com/27387766",
         "target_price": 300.0,
         "last_notified_price": 288.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 385.0,
         "best_price": 288.0,
         "mrp": 700.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn101",
@@ -1297,7 +1297,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn102",
@@ -1310,7 +1310,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn103",
@@ -1323,7 +1323,7 @@
         "best_price": 850.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn104",
@@ -1336,7 +1336,7 @@
         "best_price": null,
         "mrp": 1050.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn105",
@@ -1349,7 +1349,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn106",
@@ -1362,7 +1362,7 @@
         "best_price": 950.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn107",
@@ -1375,7 +1375,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn108",
@@ -1388,7 +1388,7 @@
         "best_price": 525.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn109",
@@ -1401,7 +1401,7 @@
         "best_price": 456.0,
         "mrp": 1050.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn110",
@@ -1414,7 +1414,7 @@
         "best_price": 850.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn111",
@@ -1427,7 +1427,7 @@
         "best_price": 950.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn112",
@@ -1440,7 +1440,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn113",
@@ -1448,12 +1448,12 @@
         "url": "https://www.myntra.com/18959994",
         "target_price": 450.0,
         "last_notified_price": 432.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 577.0,
         "best_price": 432.0,
         "mrp": 1050.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn114",
@@ -1461,12 +1461,12 @@
         "url": "https://www.myntra.com/27387724",
         "target_price": 450.0,
         "last_notified_price": 430.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 574.0,
         "best_price": 430.0,
         "mrp": 1050.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn115",
@@ -1479,7 +1479,7 @@
         "best_price": 850.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn116",
@@ -1492,7 +1492,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn117",
@@ -1505,7 +1505,7 @@
         "best_price": 477.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn118",
@@ -1518,7 +1518,7 @@
         "best_price": 477.0,
         "mrp": 1050.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn119",
@@ -1531,7 +1531,7 @@
         "best_price": null,
         "mrp": 898.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn120",
@@ -1544,7 +1544,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn121",
@@ -1557,7 +1557,7 @@
         "best_price": null,
         "mrp": 837.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn122",
@@ -1570,7 +1570,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn123",
@@ -1583,7 +1583,7 @@
         "best_price": null,
         "mrp": 1198.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn124",
@@ -1596,7 +1596,7 @@
         "best_price": null,
         "mrp": 1797.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn125",
@@ -1609,7 +1609,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn126",
@@ -1622,7 +1622,7 @@
         "best_price": null,
         "mrp": 1198.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn127",
@@ -1635,7 +1635,7 @@
         "best_price": null,
         "mrp": 2396.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn128",
@@ -1648,7 +1648,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn129",
@@ -1661,7 +1661,7 @@
         "best_price": null,
         "mrp": 1240.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn130",
@@ -1674,7 +1674,7 @@
         "best_price": null,
         "mrp": 620.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn131",
@@ -1687,7 +1687,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn132",
@@ -1700,7 +1700,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn133",
@@ -1713,7 +1713,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn134",
@@ -1726,7 +1726,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn135",
@@ -1739,7 +1739,7 @@
         "best_price": null,
         "mrp": 297.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn136",
@@ -1752,7 +1752,7 @@
         "best_price": null,
         "mrp": 594.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn137",
@@ -1765,7 +1765,7 @@
         "best_price": 539.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn138",
@@ -1778,7 +1778,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn139",
@@ -1791,7 +1791,7 @@
         "best_price": null,
         "mrp": 349.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn140",
@@ -1804,7 +1804,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn141",
@@ -1817,7 +1817,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn142",
@@ -1830,7 +1830,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn143",
@@ -1843,7 +1843,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn144",
@@ -1856,7 +1856,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn145",
@@ -1869,7 +1869,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn146",
@@ -1882,7 +1882,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn147",
@@ -1895,7 +1895,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn148",
@@ -1908,7 +1908,7 @@
         "best_price": null,
         "mrp": 750.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn149",
@@ -1921,7 +1921,7 @@
         "best_price": null,
         "mrp": 580.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn150",
@@ -1934,7 +1934,7 @@
         "best_price": null,
         "mrp": 550.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn151",
@@ -1947,7 +1947,7 @@
         "best_price": null,
         "mrp": 650.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn152",
@@ -1960,7 +1960,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn153",
@@ -1973,7 +1973,7 @@
         "best_price": null,
         "mrp": 730.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn154",
@@ -1986,7 +1986,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn155",
@@ -1999,7 +1999,7 @@
         "best_price": null,
         "mrp": 325.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn156",
@@ -2012,7 +2012,7 @@
         "best_price": null,
         "mrp": 325.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn157",
@@ -2025,7 +2025,7 @@
         "best_price": null,
         "mrp": 290.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn158",
@@ -2038,7 +2038,7 @@
         "best_price": null,
         "mrp": 275.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn159",
@@ -2051,7 +2051,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn160",
@@ -2064,7 +2064,7 @@
         "best_price": null,
         "mrp": 555.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn161",
@@ -2077,7 +2077,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn162",
@@ -2090,7 +2090,7 @@
         "best_price": null,
         "mrp": 840.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn163",
@@ -2103,7 +2103,7 @@
         "best_price": null,
         "mrp": 325.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn164",
@@ -2116,7 +2116,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn165",
@@ -2129,7 +2129,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn166",
@@ -2142,7 +2142,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn167",
@@ -2155,7 +2155,7 @@
         "best_price": null,
         "mrp": 942.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn168",
@@ -2168,7 +2168,7 @@
         "best_price": null,
         "mrp": 942.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn169",
@@ -2181,7 +2181,7 @@
         "best_price": null,
         "mrp": 555.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn170",
@@ -2194,7 +2194,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn171",
@@ -2207,7 +2207,7 @@
         "best_price": 126.0,
         "mrp": 198.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn172",
@@ -2220,7 +2220,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn173",
@@ -2233,7 +2233,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn174",
@@ -2246,7 +2246,7 @@
         "best_price": null,
         "mrp": 153.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn175",
@@ -2259,7 +2259,7 @@
         "best_price": null,
         "mrp": 138.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn176",
@@ -2267,12 +2267,12 @@
         "url": "https://www.myntra.com/27358822",
         "target_price": 150.0,
         "last_notified_price": 136.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 182.0,
         "best_price": 136.0,
         "mrp": 280.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn177",
@@ -2285,7 +2285,7 @@
         "best_price": null,
         "mrp": 612.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn178",
@@ -2298,7 +2298,7 @@
         "best_price": null,
         "mrp": 325.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn179",
@@ -2311,7 +2311,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn180",
@@ -2324,7 +2324,7 @@
         "best_price": null,
         "mrp": 552.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn181",
@@ -2337,7 +2337,7 @@
         "best_price": null,
         "mrp": 749.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn182",
@@ -2350,7 +2350,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn183",
@@ -2363,7 +2363,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn184",
@@ -2376,7 +2376,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn185",
@@ -2389,7 +2389,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn186",
@@ -2402,7 +2402,7 @@
         "best_price": null,
         "mrp": 178.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn187",
@@ -2415,7 +2415,7 @@
         "best_price": null,
         "mrp": 179.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn188",
@@ -2428,7 +2428,7 @@
         "best_price": null,
         "mrp": 420.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn189",
@@ -2441,7 +2441,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn190",
@@ -2454,7 +2454,7 @@
         "best_price": null,
         "mrp": 179.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn191",
@@ -2467,7 +2467,7 @@
         "best_price": null,
         "mrp": 318.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn192",
@@ -2480,7 +2480,7 @@
         "best_price": null,
         "mrp": 308.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn193",
@@ -2493,7 +2493,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn194",
@@ -2506,7 +2506,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn195",
@@ -2519,7 +2519,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn196",
@@ -2532,7 +2532,7 @@
         "best_price": null,
         "mrp": 600.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn197",
@@ -2545,7 +2545,7 @@
         "best_price": null,
         "mrp": 300.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn198",
@@ -2558,7 +2558,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn199",
@@ -2571,7 +2571,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn200",
@@ -2584,7 +2584,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn201",
@@ -2597,7 +2597,7 @@
         "best_price": null,
         "mrp": 330.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn202",
@@ -2610,7 +2610,7 @@
         "best_price": null,
         "mrp": 610.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn203",
@@ -2623,7 +2623,7 @@
         "best_price": null,
         "mrp": 360.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn204",
@@ -2636,7 +2636,7 @@
         "best_price": null,
         "mrp": 360.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn205",
@@ -2649,7 +2649,7 @@
         "best_price": null,
         "mrp": 229.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn206",
@@ -2662,7 +2662,7 @@
         "best_price": null,
         "mrp": 438.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn207",
@@ -2675,7 +2675,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn208",
@@ -2688,7 +2688,7 @@
         "best_price": null,
         "mrp": 229.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn209",
@@ -2701,7 +2701,7 @@
         "best_price": null,
         "mrp": 1187.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn210",
@@ -2714,7 +2714,7 @@
         "best_price": null,
         "mrp": 1297.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn211",
@@ -2727,7 +2727,7 @@
         "best_price": null,
         "mrp": 458.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn212",
@@ -2740,7 +2740,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn213",
@@ -2753,7 +2753,7 @@
         "best_price": null,
         "mrp": 1150.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn214",
@@ -2766,7 +2766,7 @@
         "best_price": null,
         "mrp": 758.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn215",
@@ -2779,7 +2779,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn216",
@@ -2792,7 +2792,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn217",
@@ -2805,7 +2805,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn218",
@@ -2818,7 +2818,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn219",
@@ -2831,7 +2831,7 @@
         "best_price": 246.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn220",
@@ -2844,7 +2844,7 @@
         "best_price": null,
         "mrp": 239.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn221",
@@ -2857,7 +2857,7 @@
         "best_price": null,
         "mrp": 269.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn222",
@@ -2870,7 +2870,7 @@
         "best_price": null,
         "mrp": 269.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn223",
@@ -2883,7 +2883,7 @@
         "best_price": null,
         "mrp": 269.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn224",
@@ -2896,7 +2896,7 @@
         "best_price": null,
         "mrp": 658.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn225",
@@ -2909,7 +2909,7 @@
         "best_price": null,
         "mrp": 658.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn226",
@@ -2922,7 +2922,7 @@
         "best_price": null,
         "mrp": 649.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn227",
@@ -2935,7 +2935,7 @@
         "best_price": null,
         "mrp": 649.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn228",
@@ -2948,7 +2948,7 @@
         "best_price": null,
         "mrp": 329.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn229",
@@ -2961,7 +2961,7 @@
         "best_price": null,
         "mrp": 329.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn230",
@@ -2974,7 +2974,7 @@
         "best_price": null,
         "mrp": 329.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn231",
@@ -2987,7 +2987,7 @@
         "best_price": null,
         "mrp": 329.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn232",
@@ -3000,7 +3000,7 @@
         "best_price": null,
         "mrp": 329.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn233",
@@ -3013,7 +3013,7 @@
         "best_price": null,
         "mrp": 499.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn234",
@@ -3026,7 +3026,7 @@
         "best_price": null,
         "mrp": 499.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn235",
@@ -3039,7 +3039,7 @@
         "best_price": null,
         "mrp": 319.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn236",
@@ -3052,7 +3052,7 @@
         "best_price": null,
         "mrp": 398.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn237",
@@ -3065,7 +3065,7 @@
         "best_price": null,
         "mrp": 199.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn238",
@@ -3078,7 +3078,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn239",
@@ -3091,7 +3091,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn240",
@@ -3104,7 +3104,7 @@
         "best_price": null,
         "mrp": 250.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn241",
@@ -3117,7 +3117,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn242",
@@ -3130,7 +3130,7 @@
         "best_price": null,
         "mrp": 250.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn243",
@@ -3143,7 +3143,7 @@
         "best_price": null,
         "mrp": 450.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn244",
@@ -3156,7 +3156,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn245",
@@ -3169,7 +3169,7 @@
         "best_price": null,
         "mrp": 1048.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn246",
@@ -3182,7 +3182,7 @@
         "best_price": null,
         "mrp": 220.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn247",
@@ -3195,7 +3195,7 @@
         "best_price": null,
         "mrp": 110.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn248",
@@ -3208,7 +3208,7 @@
         "best_price": null,
         "mrp": 449.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn249",
@@ -3216,12 +3216,12 @@
         "url": "https://www.myntra.com/75042",
         "target_price": 200.0,
         "last_notified_price": 200.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 267.0,
         "best_price": 200.0,
         "mrp": 399.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn250",
@@ -3234,7 +3234,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn251",
@@ -3247,7 +3247,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn252",
@@ -3260,7 +3260,7 @@
         "best_price": null,
         "mrp": 325.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn253",
@@ -3273,7 +3273,7 @@
         "best_price": null,
         "mrp": 199.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn254",
@@ -3286,7 +3286,7 @@
         "best_price": null,
         "mrp": 379.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn255",
@@ -3299,7 +3299,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn256",
@@ -3312,7 +3312,7 @@
         "best_price": null,
         "mrp": 415.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn257",
@@ -3325,7 +3325,7 @@
         "best_price": null,
         "mrp": 399.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn258",
@@ -3338,7 +3338,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn259",
@@ -3351,7 +3351,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn260",
@@ -3364,7 +3364,7 @@
         "best_price": null,
         "mrp": 250.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn261",
@@ -3372,12 +3372,12 @@
         "url": "https://www.myntra.com/19769516",
         "target_price": 200.0,
         "last_notified_price": 179.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 239.0,
         "best_price": 179.0,
         "mrp": 399.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn262",
@@ -3390,7 +3390,7 @@
         "best_price": null,
         "mrp": 399.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn263",
@@ -3403,7 +3403,7 @@
         "best_price": null,
         "mrp": 399.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn264",
@@ -3416,7 +3416,7 @@
         "best_price": null,
         "mrp": 399.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn265",
@@ -3429,7 +3429,7 @@
         "best_price": 614.0,
         "mrp": 1099.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn266",
@@ -3442,7 +3442,7 @@
         "best_price": 559.0,
         "mrp": 1099.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn267",
@@ -3455,7 +3455,7 @@
         "best_price": null,
         "mrp": 499.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn268",
@@ -3468,7 +3468,7 @@
         "best_price": null,
         "mrp": 320.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn269",
@@ -3481,7 +3481,7 @@
         "best_price": null,
         "mrp": 460.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn270",
@@ -3494,7 +3494,7 @@
         "best_price": null,
         "mrp": 395.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn271",
@@ -3507,7 +3507,7 @@
         "best_price": null,
         "mrp": 395.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn272",
@@ -3520,7 +3520,7 @@
         "best_price": null,
         "mrp": 349.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn273",
@@ -3533,7 +3533,7 @@
         "best_price": null,
         "mrp": 245.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn274",
@@ -3546,7 +3546,7 @@
         "best_price": null,
         "mrp": 245.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn275",
@@ -3559,7 +3559,7 @@
         "best_price": null,
         "mrp": 599.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn276",
@@ -3572,7 +3572,7 @@
         "best_price": null,
         "mrp": 649.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn277",
@@ -3585,7 +3585,7 @@
         "best_price": null,
         "mrp": 599.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn278",
@@ -3598,7 +3598,7 @@
         "best_price": null,
         "mrp": 599.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn279",
@@ -3611,7 +3611,7 @@
         "best_price": null,
         "mrp": 245.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn280",
@@ -3624,7 +3624,7 @@
         "best_price": null,
         "mrp": 575.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn281",
@@ -3637,7 +3637,7 @@
         "best_price": null,
         "mrp": 599.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn282",
@@ -3650,7 +3650,7 @@
         "best_price": null,
         "mrp": 575.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn283",
@@ -3663,7 +3663,7 @@
         "best_price": null,
         "mrp": 1818.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn284",
@@ -3676,7 +3676,7 @@
         "best_price": null,
         "mrp": 1518.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn285",
@@ -3689,7 +3689,7 @@
         "best_price": null,
         "mrp": 1077.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn286",
@@ -3702,7 +3702,7 @@
         "best_price": null,
         "mrp": 698.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn287",
@@ -3715,7 +3715,7 @@
         "best_price": null,
         "mrp": 599.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn288",
@@ -3723,12 +3723,12 @@
         "url": "https://www.myntra.com/8979541",
         "target_price": 230.0,
         "last_notified_price": 228.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 228.0,
         "best_price": null,
         "mrp": 374.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn289",
@@ -3741,7 +3741,7 @@
         "best_price": null,
         "mrp": 240.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn290",
@@ -3754,7 +3754,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn291",
@@ -3762,12 +3762,12 @@
         "url": "https://www.myntra.com/29565440",
         "target_price": 160.0,
         "last_notified_price": 156.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 156.0,
         "best_price": null,
         "mrp": 240.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn292",
@@ -3780,7 +3780,7 @@
         "best_price": null,
         "mrp": 315.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn293",
@@ -3793,7 +3793,7 @@
         "best_price": null,
         "mrp": 475.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn294",
@@ -3806,7 +3806,7 @@
         "best_price": null,
         "mrp": 315.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn295",
@@ -3819,7 +3819,7 @@
         "best_price": null,
         "mrp": 359.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn296",
@@ -3832,7 +3832,7 @@
         "best_price": null,
         "mrp": 310.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn297",
@@ -3845,7 +3845,7 @@
         "best_price": null,
         "mrp": 295.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn298",
@@ -3858,7 +3858,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn299",
@@ -3871,7 +3871,7 @@
         "best_price": null,
         "mrp": 165.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn300",
@@ -3884,7 +3884,7 @@
         "best_price": null,
         "mrp": 189.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn301",
@@ -3897,7 +3897,7 @@
         "best_price": null,
         "mrp": 120.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn302",
@@ -3910,7 +3910,7 @@
         "best_price": 196.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn303",
@@ -3923,7 +3923,7 @@
         "best_price": null,
         "mrp": 350.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn304",
@@ -3936,7 +3936,7 @@
         "best_price": null,
         "mrp": 480.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn305",
@@ -3944,12 +3944,12 @@
         "url": "https://www.myntra.com/22080210",
         "target_price": 250.0,
         "last_notified_price": 248.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 331.0,
         "best_price": 248.0,
         "mrp": 480.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn306",
@@ -3962,7 +3962,7 @@
         "best_price": null,
         "mrp": 480.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn307",
@@ -3975,7 +3975,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn308",
@@ -3988,7 +3988,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn309",
@@ -4001,7 +4001,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn310",
@@ -4014,7 +4014,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn311",
@@ -4027,7 +4027,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn312",
@@ -4040,7 +4040,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn313",
@@ -4053,7 +4053,7 @@
         "best_price": null,
         "mrp": 598.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn314",
@@ -4066,7 +4066,7 @@
         "best_price": null,
         "mrp": 660.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn315",
@@ -4079,7 +4079,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn316",
@@ -4092,7 +4092,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn317",
@@ -4105,7 +4105,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn318",
@@ -4118,7 +4118,7 @@
         "best_price": null,
         "mrp": 630.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn319",
@@ -4131,7 +4131,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn320",
@@ -4144,7 +4144,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn321",
@@ -4157,7 +4157,7 @@
         "best_price": 429.0,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn322",
@@ -4170,7 +4170,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn323",
@@ -4183,7 +4183,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn324",
@@ -4196,7 +4196,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn325",
@@ -4209,7 +4209,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn326",
@@ -4222,7 +4222,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn327",
@@ -4235,7 +4235,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn328",
@@ -4248,7 +4248,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn329",
@@ -4261,7 +4261,7 @@
         "best_price": null,
         "mrp": null,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn330",
@@ -4274,7 +4274,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn331",
@@ -4287,7 +4287,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn332",
@@ -4300,7 +4300,7 @@
         "best_price": null,
         "mrp": 990.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn333",
@@ -4313,7 +4313,7 @@
         "best_price": null,
         "mrp": 945.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn334",
@@ -4326,7 +4326,7 @@
         "best_price": null,
         "mrp": 725.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn335",
@@ -4339,7 +4339,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn336",
@@ -4352,7 +4352,7 @@
         "best_price": null,
         "mrp": 897.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn337",
@@ -4365,7 +4365,7 @@
         "best_price": null,
         "mrp": 498.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn338",
@@ -4373,12 +4373,12 @@
         "url": "https://www.myntra.com/soap/ghar+soaps/ghar-soaps-magic-soap-detan-and-brightening-soap-with-saffron---100-g/32609057/buy?mini=true&skuId=105059598&sellerPartnerId=30035&isMnowCalloutDisplayedInSrc=false",
         "target_price": 192.0,
         "last_notified_price": 144.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 192.0,
         "best_price": 144.0,
         "mrp": 220.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn339",
@@ -4391,7 +4391,7 @@
         "best_price": null,
         "mrp": 459.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn340",
@@ -4404,7 +4404,7 @@
         "best_price": 207.0,
         "mrp": 375.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn341",
@@ -4417,7 +4417,7 @@
         "best_price": 210.0,
         "mrp": 400.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn342",
@@ -4430,7 +4430,7 @@
         "best_price": 207.0,
         "mrp": 375.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn343",
@@ -4438,12 +4438,12 @@
         "url": "https://www.myntra.com/conditioner/plix+the+plant+fix/plix-the-plant-fix-rosemary-anti-hair-fall-conditioner--100-ml/38632766/buy",
         "target_price": 160.0,
         "last_notified_price": 146.0,
-        "last_notified_date": "2026-05-23",
+        "last_notified_date": "2026-05-22",
         "pdp_price": 195.0,
         "best_price": 146.0,
         "mrp": 300.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn344",
@@ -4456,7 +4456,7 @@
         "best_price": 207.0,
         "mrp": 375.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn345",
@@ -4469,7 +4469,7 @@
         "best_price": 231.0,
         "mrp": 400.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     },
     {
         "id": "myn346",
@@ -4482,6 +4482,6 @@
         "best_price": null,
         "mrp": 1080.0,
         "scan_status": "scanned",
-        "last_scanned_at": "2026-05-23T08:32:20.781436+00:00"
+        "last_scanned_at": "2026-05-22T08:32:20.781436+00:00"
     }
 ]
